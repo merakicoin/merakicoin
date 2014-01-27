@@ -1,0 +1,4 @@
+merakicoin
+==========
+
+MerakiCoin site development
